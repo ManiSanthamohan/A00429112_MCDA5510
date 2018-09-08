@@ -19,7 +19,8 @@ To work in an organization where culture of freedom and working for initiatives 
 * [Oracle Database](https://www.linkedin.com/in/santhamohan-manivannan-a6a16274/) - With Work experience
 * [SAP Basis](https://www.linkedin.com/in/santhamohan-manivannan-a6a16274/) - With Work experience
 * [DELL Netvault(Backup)](https://www.linkedin.com/in/santhamohan-manivannan-a6a16274/) - With Work experience
-* [HP Data Protector](https://www.linkedin.com/in/santhamohan-manivannan-a6a16274/) - With Work experience
+* [HP Data Protector(Backup)](https://www.linkedin.com/in/santhamohan-manivannan-a6a16274/) - With Work experience
+* [Python](https://www.linkedin.com/in/santhamohan-manivannan-a6a16274/) - Individual Project
 #
 * [Android](https://www.linkedin.com/in/santhamohan-manivannan-a6a16274/) - College Projects
 * [JSP](https://www.linkedin.com/in/santhamohan-manivannan-a6a16274/) - College Projects & National Level Programming Contest
